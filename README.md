@@ -1,5 +1,4 @@
 # Exploratory_Statistics_PayrollData<br>
-</h>A visualization project on Crime/Arrest characteristics of Baltimore City Province</h>
 
 <b>Introduction</b>:
 This report aims to present an exploratory research done on the Los Angeles Payroll Dataset to better understand the Statistical Methods and use them in answering real life problems that the data poses. The Hypothesis Testing using different techniques like Normal Distribution, Students T-Test and ANOVA has been performed on various features of the dataset to evaluate the validity of the various assumptions presumed as Null hypothesis. The report also presents the work done to predict the Annual Salary and Average Health Cost making use of Linear regression and RandomForest (Decision trees) algorithms. 
